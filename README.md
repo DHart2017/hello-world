@@ -1,2 +1,2 @@
 # hello-world
-Sandbox for learning GitHub and R&amp;D
+Taking the Learn Git and GitHub tutorial. 
